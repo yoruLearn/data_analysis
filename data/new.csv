@@ -1,0 +1,6 @@
+,employee_id,first_name,last_name,email,phone_number,job_id,salary,commission_pct,manager_id,department_id
+0,100,Steven,King,SKING,515.123.4567,AD_PRES,24000.0,,,90.0
+1,101,N_ann,Kochhar,NKOCHHAR,515.123.4568,AD_VP,17000.0,,100.0,90.0
+2,102,Lex,De Haan,LDEHAAN,515.123.4569,AD_VP,17000.0,,100.0,90.0
+3,103,Alexander,Hunold,AHUNOLD,590.423.4567,IT_PROG,9000.0,,102.0,60.0
+4,104,Bruce,Ernst,BERNST,590.423.4568,IT_PROG,6000.0,,103.0,60.0
